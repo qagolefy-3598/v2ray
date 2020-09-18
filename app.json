@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+            "value": "8f91b6a0-e8ee-11ea-adc1-0222ac120002"
         },
         "WSPATH": {
             "description": "websockets path",
